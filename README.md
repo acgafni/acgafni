@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acgafni
-- 👀 I’m interested in python, Django
-- 🌱 I’m currently learning full stack dev
+- 👀 I’m interested in Python, Django, javascript
+- 🌱 I’m currently learning full-stack dev
 - 💞️ I’m not looking to collaborate right now 
 - 📫 How to reach me agafni@gmail.com
 
